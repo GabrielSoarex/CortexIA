@@ -31,7 +31,7 @@ No repositório você encontrará:
 - **📚 Documentação do Sistema** – Explicação detalhada dos módulos e componentes  
 - **💻 Código-fonte** – Implementação do projeto  
 
-> ⚠️ Detalhes de sprints, backlog e gestão ágil estão disponíveis apenas nas ferramentas de gerenciamento (GitHub Projects, Jira, etc.).
+> ⚠️ Detalhes de sprints, backlog e gestão ágil estão disponíveis apenas nas ferramentas de gerenciamento (GitHub Projects).
 
 ---
 
