@@ -1,7 +1,7 @@
 # CortexIA 🚀
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Tecnologias](https://img.shields.io/badge/technologies-UML%20|%20Flutter%20|%20Scrum-blue)
+![Tecnologias](https://img.shields.io/badge/Technologies-JavaScript%20|%20Nuxt.js%20|%20Vue.js%20|%20Vuetify%20|%20HTML%20|%20CSS%20|%20Java%20|%20C%23%20|%20Dart%20|%20Flutter%20|%20MySQL%20|%20UML%20|%20SCRUM-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 Bem-vindo à documentação do **CortexIA**! Aqui você encontrará diagramas UML, instruções de acesso e informações sobre os componentes e fluxos do sistema. 💡
@@ -15,11 +15,7 @@ O sistema também permite acompanhamento dos chamados, registro de soluções e 
 
 ---
 
-## 💻 Tecnologias e Ferramentas
-
-Perfeito! Vou colocar exatamente no **mesmo estilo do seu README anterior**, usando títulos e formatação simples, que combinam com o que você já tem:
-
----
+## 💻 Tecnologias e Ferramentas:
 
 ## 🛠️ Tecnologias e Linguagens do Projeto
 
